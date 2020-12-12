@@ -1,12 +1,4 @@
----
-title: 'Reproducible Research'
-output:
-  html_document: 
-    keep_md: yes
-  md_document:
-    preserver_yaml: false
-  pdf_document: default
----
+
 
 ## Loading and preprocessing the data
 #### 1. Unzipping and Loading the data, and loading the neccesary packages
