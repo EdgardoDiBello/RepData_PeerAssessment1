@@ -3,6 +3,8 @@ title: 'Reproducible Research'
 output:
   html_document: 
     keep_md: yes
+  md_document:
+    preserver_yaml: false
   pdf_document: default
 ---
 
